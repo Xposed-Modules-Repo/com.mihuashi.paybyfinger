@@ -2,6 +2,7 @@
 [![GitHub license](https://img.shields.io/github/license/ghhccghk/mhspay?style=flat-square)](https://github.com/ghhccghk/mhspay/LICENSE.md)  
 [![GitHub Star](https://img.shields.io/github/stars/ghhccghk/mhspay?style=flat-square)](https://github.com/ghhccghk/mhspay/stargazers) [![GitHub Star](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.mihuashi.paybyfinger?style=flat-square&label=LSPosed%20Star&labelColor=F48FB1)](https://github.com/Xposed-Modules-Repo/com.mihuashi.paybyfinger/stargazers)
 [![GitHub Fork](https://img.shields.io/github/forks/ghhccghk/mhspay?style=flat-square)](https://github.com/ghhccghk/mhspay/network/members)
+---
 # 米画师支付模块
 通过Hook米画师的密码输入接口并在指纹识别正确后填入密码来实现指纹识别
 
