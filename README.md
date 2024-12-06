@@ -19,5 +19,12 @@ https://github.com/ghhccghk/mhspay
 该模块仅在Xposed module repo官方仓库发布
 ### 使用守则
 严禁在公开区域宣传与展示本软件！
+## 致谢
+#### [Shellwen](https://github.com/ShellWen) 感谢其帮忙脱壳
+#### [EzXHelper](https://github.com/KyuubiRan/EzXHelper) 使用了其项目
+#### [XKT](https://github.com/xiaowine/XKT) 使用了其项目
+#### [Lyric-Getter](https://github.com/xiaowine/Lyric-Getter) 参考了界面写法
+#### [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) 参考了焦点通知实现
+[<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" width="200"/>](https://www.jetbrains.com)
 
 
