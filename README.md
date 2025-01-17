@@ -4,7 +4,8 @@
 [![GitHub Fork](https://img.shields.io/github/forks/ghhccghk/mhspay?style=flat-square)](https://github.com/ghhccghk/mhspay/network/members)
 ---
 通过Hook米画师的密码输入接口并在指纹识别正确后填入密码来实现指纹识别
-# 不要更新新版本，新版本有反hook
+# 不要更新新版本，新版本有反hook，目前支持到 7.21.0
+
 ## 告示
 ##### 本应用准备上架Google play 现在征集测试人员，详情可以去下面issue里可以看看
 
